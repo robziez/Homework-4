@@ -1,0 +1,15 @@
+body{
+	font-family: georgia, serif;
+	line-height: 1.5em;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+p{
+	color: #999999;
+}
+em{
+	color: black;
+}
+blockquote{
+	font-style: italic;
+}

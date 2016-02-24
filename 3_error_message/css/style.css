@@ -1,0 +1,30 @@
+body{
+	font-family: arial, sans-serif;
+}
+#notification{
+	padding: 5px;
+    background: rgba(210,215,211,.3);
+    border: 1px solid #999999;
+}
+button{
+	background: rgba(210,215,211,.3);
+    box-shadow: 0px 0px 0px 0px;
+    border: 1px solid rgb(205,210,206);
+    border-radius: 10%;
+}
+.message{
+	background: rgba(245,240,205,.3);
+    border: 1px solid #999999;
+    padding: 10px;
+    margin-bottom: 8px;
+}
+.error{
+	background: rgba(245,201,195,.3);
+	border: 1px solid #F5A6B6;
+	line-height: 1.5em;
+}
+.success{
+	background: rgba(146,218,147,.3);
+	border: 1px solid #44A34F;
+	line-height: 1.5em;
+}
